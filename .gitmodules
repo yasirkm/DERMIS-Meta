@@ -1,0 +1,12 @@
+[submodule "api_specifications/DERMIS-SkinEvaluation-API"]
+	path = api_specifications/DERMIS-SkinEvaluation-API
+	url = https://github.com/yasirkm/DERMIS-SkinEvaluation-API.git
+[submodule "api_specifications/DERMIS-SkinConditionDiagnosis-API"]
+	path = api_specifications/DERMIS-SkinConditionDiagnosis-API
+	url = https://github.com/yasirkm/DERMIS-SkinConditionDiagnosis-API.git
+[submodule "servers/DERMIS-SkinEvaluation-Server"]
+	path = servers/DERMIS-SkinEvaluation-Server
+	url = https://github.com/yasirkm/DERMIS-SkinEvaluation-Server.git
+[submodule "servers/DERMIS-SkinConditionDiagnosis-Server"]
+	path = servers/DERMIS-SkinConditionDiagnosis-Server
+	url = https://github.com/yasirkm/DERMIS-SkinConditionDiagnosis-Server.git
