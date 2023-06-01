@@ -10,3 +10,6 @@
 [submodule "servers/DERMIS-SkinConditionDiagnosis-Server"]
 	path = servers/DERMIS-SkinConditionDiagnosis-Server
 	url = https://github.com/yasirkm/DERMIS-SkinConditionDiagnosis-Server.git
+[submodule "models/DERMIS-MachineLearning"]
+	path = models/DERMIS-MachineLearning
+	url = https://github.com/Keyza-asyadda/DERMIS-MachineLearning
