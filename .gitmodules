@@ -13,3 +13,6 @@
 [submodule "models/DERMIS-MachineLearning"]
 	path = models/DERMIS-MachineLearning
 	url = https://github.com/Keyza-asyadda/DERMIS-MachineLearning
+[submodule "clients/DERMIS-AndroidApp"]
+	path = clients/DERMIS-AndroidApp
+	url = https://github.com/hikmalafandi/DERMIS-AndroidApp.git
