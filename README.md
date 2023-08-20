@@ -56,9 +56,9 @@ professional should their skin conditions be severe enough or are hard to identi
 
 | Name                      | Bangkit ID  | Learning Path      |
 |---------------------------|-------------|--------------------|
-| [Alda Yunisa](www.linkedin.com/in/alda-yunisa-136453241)               | M295DSY0006 | Machine Learning   |
-| [Keyza Asyadda Ramadhan M.](www.linkedin.com/in/keyza-asyadda-ramadhan-7457551b7) | M181DSX4951 | Machine Learning   |
-| [M. Nur Hikmal Afandi](www.linkedin.com/in/m-nur-hikmal-afandi-849b47266)      | A360DSX3549 | Mobile Development |
-| [Muhamad Dika Muldani](www.linkedin.com/in/dikamuldani)      | A360DKX4371 | Mobile Development |
-| [Yasir Khairul Malik](www.linkedin.com/in/yasir-khairul-malik-029a85271)       | C360DSX2643 | Cloud Computing    |
-| [Agivqy Nadif Santoso](www.linkedin.com/in/agivqynadifsantoso)      | C375DSX2654 | Cloud Computing    |
+| [Alda Yunisa](https://www.linkedin.com/in/alda-yunisa-136453241/)               | M295DSY0006 | Machine Learning   |
+| [Keyza Asyadda Ramadhan M.](https://www.linkedin.com/in/keyza-asyadda-ramadhan-7457551b7/) | M181DSX4951 | Machine Learning   |
+| [M. Nur Hikmal Afandi](https://www.linkedin.com/in/m-nur-hikmal-afandi-849b47266/)      | A360DSX3549 | Mobile Development |
+| [Muhamad Dika Muldani](https://www.linkedin.com/in/dikamuldani/)      | A360DKX4371 | Mobile Development |
+| [Yasir Khairul Malik](https://www.linkedin.com/in/yasir-khairul-malik-029a85271/)       | C360DSX2643 | Cloud Computing    |
+| [Agivqy Nadif Santoso](https://www.linkedin.com/in/agivqynadifsantoso/)      | C375DSX2654 | Cloud Computing    |
